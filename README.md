@@ -2,7 +2,7 @@
 
 ## Overview
 
-*Powerful moderation and trend analytics for your Discord community.*
+*Public Archive for ModTrack: Powerful moderation and trend analytics for your Discord community.*
 
 ## Command List
 
