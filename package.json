@@ -1,0 +1,25 @@
+{
+  "name": "modtrack",
+  "version": "1.0.0",
+  "description": "ModTrack – Discord moderation and analytics bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "ModTrack",
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.1.0",
+    "@keyv/mongo": "^1.1.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^13.9.0",
+    "fs": "0.0.1-security",
+    "keyv": "^4.0.1",
+    "moment": "^2.27.0",
+    "mongodb": "^3.6.10",
+    "node-fetch": "^2.6.1"
+  }
+}
